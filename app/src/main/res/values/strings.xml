@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GarminStick</string>
+    <string name="action_settings">Settings</string>
+    <string name="home_connect">Connect</string>
+</resources>
